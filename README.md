@@ -19,13 +19,23 @@ If you are developing a production application, we recommend using TypeScript wi
 
 - Created the react app with vite
 - Configured the tailwindcss into the project
+- Header
+- Login Form
 
 # Features
 
+- Login/ Sign up page
+  - Signin page
+  - redirect to browser page
 - Browse(comes after authentication)
+
   - Header
   - Main movie
     - Trailer (in background)
     - Title & description
     - Movie suggestions
       - Movie lists\*n
+
+- Netflix GPT
+  - search bar
+  - movie suggestions
