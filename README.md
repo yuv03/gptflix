@@ -20,7 +20,10 @@ If you are developing a production application, we recommend using TypeScript wi
 - Created the react app with vite
 - Configured the tailwindcss into the project
 - Header
+- Routing
 - Login Form
+- Form validations
+- useRef hook
 
 # Features
 
